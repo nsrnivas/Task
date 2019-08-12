@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+a:link {
+  color: green;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:visited {
+  color: pink;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:hover {
+  color: red;
+  background-color: transparent;
+  text-decoration: underline;
+}
+a:active {
+  color: yellow;
+  background-color: transparent;
+  text-decoration: underline;
+}
+</style>
+</head>
+<body>
+<div> <a href="#1" tabindex="1">one</a>
+<a href="#2" tabindex="2">Two</a>
+<a href="#3" tabindex="3">Three</a>
+<p id="1">
+11111..1.1.1.1.1.1This paragraph
+contains a lot of lines
+in the source code,
+but the browser 
+ignores it.
+This paragraph
+contains a lot of lines
+in the source code,
+but the browser 
+ignores it.This paragraph
+contains a lot of lines
+in the source code,
+but the browser 
+ignores it.This paragraph
+contains a lot of lines
+in the source code,
+but the browser 
+ignores it.This paragraph
+contains a lot of lines
+in the source code,
+but the browser 
+ignores it.This paragraph
+contains a lot of lines
+in the source code,
+but the browser 
+ignores it.This paragraph
+contains a lot of lines
+in the source code,
+but the browser 
+ignores it.This paragraph
+contains a lot of lines
+in the source code,
+but the browser 
+ignores it.This paragraph
+contains a lot of lines
+in the source code,
+but the browser 
+ignores it.This paragraph
+contains a lot of lines
+in the source code,
+but the browser 
+ignores it.This paragraph
+contains a lot of lines
+in the source code,
+but the browser 
+ignores it.This paragraph
+contains a lot of lines
+in the source code,
+but the browser 
+ignores it.This paragraph
+contains a lot of lines
+in the source code,
+but the browser 
+ignores it.This paragraph
+contains a lot of lines
+in the source code,
+but the browser 
+ignores it.This paragraph
+contains a lot of lines
+in the source code,
+but the browser 
+ignores it.This paragraph
+contains a lot of lines
+in the source code,
+but the browser 
+ignores it.
+
+</p>
+
+<p id="2">
+2222.22....222This paragraph
+contains      a lot of spaces
+in the source     code,
+but the    browser 
+ignores it.
+This paragraph
+contains a lot of lines
+in the source code,
+but the browser 
+ignores it.
+This paragraph
+contains a lot of lines
+in the source code,
+but the browser 
+ignores it.This paragraph
+contains a lot of lines
+in the source code,
+but the browser 
+ignores it.This paragraph
+contains a lot of lines
+in the source code,
+but the browser 
+ignores it.This paragraph
+contains a lot of lines
+in the source code,
+but the browser 
+ignores it.This paragraph
+contains a lot of lines
+in the source code,
+but the browser 
+ignores it.This paragraph
+contains a lot of lines
+in the source code,
+but the browser 
+ignores it.This paragraph
+contains a lot of lines
+in the source code,
+but the browser 
+ignores it.This paragraph
+contains a lot of lines
+in the source code,
+but the browser 
+ignores it.This paragraph
+contains a lot of lines
+in the source code,
+but the browser 
+ignores it.This paragraph
+contains a lot of lines
+in the source code,
+but the browser 
+ignores it.This paragraph
+contains a lot of lines
+in the source code,
+but the browser 
+ignores it.This paragraph
+contains a lot of lines
+in the source code,
+but the browser 
+ignores it.This paragraph
+contains a lot of lines
+in the source code,
+but the browser 
+ignores it.This paragraph
+contains a lot of lines
+in the source code,
+but the browser 
+ignores it.This paragraph
+contains a lot of lines
+in the source code,
+but the browser 
+ignores it.
+</p>
+
+<p id="3">
+33333........The number of lines in a paragraph depends on the size of the browser window. If you resize the browser window, the number of lines in this paragraph wi
+This paragraph
+contains a lot of lines
+in the source code,
+but the browser 
+ignores it.
+This paragraph
+contains a lot of lines
+in the source code,
+but the browser 
+ignores it.This paragraph
+contains a lot of lines
+in the source code,
+but the browser 
+ignores it.This paragraph
+contains a lot of lines
+in the source code,
+but the browser 
+ignores it.This paragraph
+contains a lot of lines
+in the source code,
+but the browser 
+ignores it.This paragraph
+contains a lot of lines
+in the source code,
+but the browser 
+ignores it.This paragraph
+contains a lot of lines
+in the source code,
+but the browser 
+ignores it.This paragraph
+contains a lot of lines
+in the source code,
+but the browser 
+ignores it.This paragraph
+contains a lot of lines
+in the source code,
+but the browser 
+ignores it.This paragraph
+contains a lot of lines
+in the source code,
+but the browser 
+ignores it.This paragraph
+contains a lot of lines
+in the source code,
+but the browser 
+ignores it.This paragraph
+contains a lot of lines
+in the source code,
+but the browser 
+ignores it.This paragraph
+contains a lot of lines
+in the source code,
+but the browser 
+ignores it.This paragraph
+contains a lot of lines
+in the source code,
+but the browser 
+ignores it.This paragraph
+contains a lot of lines
+in the source code,
+but the browser 
+ignores it.This paragraph
+contains a lot of lines
+in the source code,
+but the browser 
+ignores it.ll change.
+</p>
+
+</body>
+</html>
